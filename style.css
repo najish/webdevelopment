@@ -24,3 +24,10 @@ nav.navbar > ul {
 nav.navbar li {
     margin:10px;
 }
+
+
+div.container {
+    height:250px;
+    width: 250px;
+    background-color:red;
+}
