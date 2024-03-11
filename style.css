@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+nav.navbar {
+    height: 50px;
+    background-color: green;
+}
