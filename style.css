@@ -4,8 +4,23 @@
     box-sizing: border-box;
 }
 
+ul {
+    list-style-type: none;
+}
+
 
 nav.navbar {
     height: 50px;
     background-color: green;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+nav.navbar > ul {
+    display: flex;
+}
+
+nav.navbar li {
+    margin:10px;
 }
