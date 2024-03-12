@@ -31,3 +31,10 @@ div.container {
     width: 250px;
     background-color:red;
 }
+
+footer {
+    height: 50px;
+    background-color: green;
+    display: flex;
+    justify-content: space-between;
+}
